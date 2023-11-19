@@ -1,4 +1,19 @@
 # Ben Kiely 122361921 Assignment 1: The Iowa Gambling Task.
+'''
+19.5 / 25
+
+Well done, Ben. I have some comments for you to review below.
+
+Classes
+The student has modified the methods in the TrialParticipant class to allow for reuse to some extent, however, there is still some hardcoded variables not explained (see comments). The student adds the additional methods and works well. 
+A small number of methods not working as described (see below).
+Comments are great.
+
+Main code
+An instance of the TrialParticipant class is created. The student references the TrialParticipant class to create all experiment interactions described.
+There are some issues with the code affecting the flow of the program – see below.
+Great use of comments. 
+'''
 ### ---- TRIALPARTICIPANT CLASS ----------
 class TrialParticipant:
 
