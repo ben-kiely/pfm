@@ -91,7 +91,7 @@ class TrialParticipant:
     def display_consent(self):
         print("If you would like to play the game, hit A, B, C or D. If not, please hit Q.")
     
-    #Question G // I left this code as is from the template, as it increments the position by 1 already and terminates after 4 rounds.
+    #Question G // 
     def increment_position(self):
         self.position += 1
         if self.position > len(self.decks):
